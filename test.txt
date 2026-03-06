@@ -1,1 +1,2 @@
-bonjour tout le monde. Il fait beau aujourd'hui !
+bonjour tout le monde. Il fait pas beau aujourd'hui !
+le ciel est gris!
